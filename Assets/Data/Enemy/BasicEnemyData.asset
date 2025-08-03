@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5fb549f0676a544ae78bcfebd80857, type: 3}
+  m_Name: BasicEnemyData
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 708883944248905299, guid: 1049983999f216c4584b8dbcb644050e, type: 3}
+  healthData: {fileID: 11400000, guid: 5b3be28b1a5344a4983516378f0bd357, type: 2}
+  attackData: {fileID: 11400000, guid: 3dfed2f854eeadb4da380ca663a54734, type: 2}
+  movementSpeed: 2
+  weight: 50

@@ -1,0 +1,18 @@
+{
+    "name": "GameManage",
+    "rootNamespace": "",
+    "references": [
+        "GUID:87d7fc76cfc3ae243b29a99fc57e3677",
+        "GUID:a0d57bd17a66bc24fa9cd6b276410686",
+        "GUID:21df67dba83b5ef44a8a97200223bfe5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
